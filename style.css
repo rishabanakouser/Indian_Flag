@@ -1,0 +1,43 @@
+body{
+   background-color: black;
+}
+.flag{
+   width:900px;
+   height:600px;
+   background-color: #FFFFFF;
+}
+.flag > div.orange{
+   background-color: #FF9933;
+   width:900px;
+   height:200px;
+}
+.flag > div.orange p{
+   text-align: center;
+   text-transform: uppercase;
+   font-size: xx-large;
+   padding: 50px;
+}
+
+
+.flag > div.green{
+   background-color: #138808;
+   width: 900px;
+   height:200px;
+   position: relative;
+   top:184px;
+}
+
+.flag > div.green p{
+   text-align: center;
+   text-transform: uppercase;
+   font-size: xx-large;
+   padding: 50px;
+}
+
+.orange > img {
+   height:200px;
+   width:200px;
+   position: relative;
+   left:390px;
+   top:40px;
+}
